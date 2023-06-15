@@ -5,3 +5,5 @@ Se realizará la predicción de alcance en Instagram utilizando Python. Tambien,
 **Para correr el laboratorio, se necesita tener el conjunto de datos dentro de los archivos de Drive, despues correr librerias y proyecto**
 
 Data set: https://statso.io/social-media-reach-forecasting-case-study/
+
+Libro Colab: https://colab.research.google.com/drive/1Ei5WZIP2A6EWlqMIfVYzvldDVEVqXj2t?usp=sharing
